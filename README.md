@@ -14,3 +14,8 @@ The objective of this task is to generate reports that provide answers to the fo
 - What are the top 5 countries in terms of net sales in 2021?
 I will be giving the Data so that you can slao performe the same 
 
+Sales Performance Analysis: Successfully conducted an in-depth sales performance analysis project, utilizing advanced Excel functions and data manipulation techniques, to answer critical business questions and provide actionable insights.
+
+Data-driven Decision Making: Demonstrated the ability to extract meaningful insights from raw data by identifying the top 10 products with the highest percentage increase in net sales, ranking products by quantity sold, and identifying new product trends, contributing to informed decision-making processes.
+
+Reporting and Visualization: Created visually engaging and informative reports, including a "Division" report and a list of the top 5 countries by net sales, showcasing data visualization skills and proficiency in translating complex data into actionable reports for business stakeholders.
